@@ -1,5 +1,7 @@
 # Portfolio
-#### Hello! Welcome to my portfolio. Listing all my project below
+#### Hello Workd. Welcome to my little corner on the internet where I host my projects...
+#### I’m currently exploring data science, machine learning, AI, business analytics and algorithmic trading
+#### I'm listing all my project under specific project categories below
 
 - #### Machine Learning / Data Science
   - #### Supervised Learning
