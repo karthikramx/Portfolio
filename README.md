@@ -13,8 +13,9 @@ Hello World. Welcome to my little corner on the internet where I host my project
 
 - #### Algorithmic Trading
   - #### Backtesting
+    - [Backtesting in python][Backtesting in python]
     - [Backtesting a portfolio of stocks][Backtesting portfolio of stocks]
-    - [Backtesting MACD Strategy][Backtesting MACD strategy]
+    
 
 - Robotics
   - [Kalman Filter][Kalman-Filter]
@@ -36,4 +37,4 @@ Hello World. Welcome to my little corner on the internet where I host my project
 [Humanoid-Gait-Design]: Path-Planning-Algorithms
 [Kalman-Filter]: https://github.com/karthikramx/Kalman-Filter-Example
 [Backtesting portfolio of stocks]: https://github.com/karthikramx/Algorithmic-Trading-Backtesting-Portfolio-of-Stocks-Python
-[Backtesting MACD strategy]: https://github.com/karthikramx/Algorithmic-Trading-Backtesting-MACD-Strategy
+[Backtesting in python]: https://github.com/karthikramx/Algorithmic-Trading-Backtesting-in-python
