@@ -19,7 +19,7 @@ Hello World. Welcome to my little corner on the internet where I host my project
 
 - Robotics
   - [Kalman Filter][Kalman-Filter]
-  - [Humanoid Gait Research using Kinemactics & Lineae Oscillators][Humanoid-Gait-Design]
+  - [Humanoid Gait Research using Kinemactics & Linear Oscillators][Humanoid-Gait-Design]
 
 (Upcoming)
 - Reinforcement Learning
