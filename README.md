@@ -1,7 +1,11 @@
-# Portfolio
-#### Hello Workd. Welcome to my little corner on the internet where I host my projects...
-#### I’m currently exploring data science, machine learning, AI, business analytics and algorithmic trading
-#### I'm listing all my project under specific project categories below
+# Portfolio 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+# 
+Hello World. Welcome to my little corner on the internet where I host my projects...
+I’m currently exploring data science, machine learning, AI, business analytics and algorithmic trading
+I'm listing all my project under specific project categories below.
+
+
 
 - #### Machine Learning / Data Science
   - #### Supervised Learning
@@ -23,3 +27,7 @@
 - Miscellaneous
 - Robotics
 - Web Development  
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/karthikramx/
