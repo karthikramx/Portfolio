@@ -1,33 +1,32 @@
 # Portfolio 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-# 
+ 
 Hello World. Welcome to my little corner on the internet where I host my projects. I’m currently exploring data science, machine learning, AI, business analytics and algorithmic trading. I'm listing all my project under specific project categories below.
 #
-- #### Machine Learning / Data Science
-  - #### Supervised Learning
+- MACHINE LEARNING / DATA SCIENCE
+  - SUPERVISED LEARNING
     - [Gradient Descent Implementation for Multiple Linear Regression on Seoul Bike Share Data][MLR on Seol Bike Share Data] 
     - Multiple Linear Regression for predicting Car Prices
     - [Credit Card Lead Prediction][Credit Card Lead Prediction]
-  - #### Unsupervised Learning
+  - UNSUPERVISED LEARNING
     - [Creating a Diversified Stock Portfolio Using Clustering Analysis][Stock portfolio Clusterign Analysis]
-
-- #### Algorithmic Trading
-  - #### Backtesting
+#
+- ALGORITHMIC TRADING
+  - BACKTESTING
     - [Backtesting in python][Backtesting in python]
     - [Backtesting a portfolio of stocks][Backtesting portfolio of stocks]
-    
-
-- Robotics
+#   
+- ROBOTICS   
   - [Kalman Filter][Kalman-Filter]
   - [Humanoid Gait Research using Kinemactics & Linear Oscillators][Humanoid-Gait-Design]
-
+#
 (Upcoming)
 - Reinforcement Learning
 - Deep Learning
 - Natural Language Processing
 - Miscellaneous
 - Web Development  
-
+#
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/karthikramx/
