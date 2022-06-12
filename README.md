@@ -5,7 +5,7 @@ Hello World. Welcome to my little corner on the internet where I host my project
 #
 - #### Machine Learning / Data Science
   - #### Supervised Learning
-    - [Gradient Descent Implementation for Multiple Linear Regression on Seol Bike Share Data][MLR on Seol Bike Share Data] 
+    - [Gradient Descent Implementation for Multiple Linear Regression on Seoul Bike Share Data][MLR on Seol Bike Share Data] 
     - Multiple Linear Regression for predicting Car Prices
     - [Credit Card Lead Prediction][Credit Card Lead Prediction]
   - #### Unsupervised Learning
