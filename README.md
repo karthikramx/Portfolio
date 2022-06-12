@@ -6,7 +6,7 @@ Hello World. Welcome to my little corner on the internet where I host my project
 - MACHINE LEARNING / DATA SCIENCE
   - SUPERVISED LEARNING
     - [Gradient Descent Implementation for Multiple Linear Regression on Seoul Bike Share Data][MLR on Seol Bike Share Data] 
-    - Multiple Linear Regression for predicting Car Prices
+    - [Multiple Linear Regression for predicting Car Prices][MLR for predicting car Prices]
     - [Credit Card Lead Prediction][Credit Card Lead Prediction]
   - UNSUPERVISED LEARNING
     - [Creating a Diversified Stock Portfolio Using Clustering Analysis][Stock portfolio Clusterign Analysis]
@@ -41,3 +41,4 @@ Hello World. Welcome to my little corner on the internet where I host my project
 [Backtesting in python]: https://github.com/karthikramx/Algorithmic-Trading-Backtesting-in-python
 [RA - Windows App]: https://github.com/karthikramx/Robotic-Arm-Windows-GUI-App
 [Handle-VREP]: https://github.com/karthikramx/Handle-VREP-Python
+[MLR for predicting car Prices]: https://github.com/karthikramx/Multiple-Linear-Regression-for-Predicting-Car-Prices
