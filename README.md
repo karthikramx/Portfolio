@@ -19,6 +19,8 @@ Hello World. Welcome to my little corner on the internet where I host my project
 - ROBOTICS   
   - [Kalman Filter][Kalman-Filter]
   - [Humanoid Gait Research using Kinemactics & Linear Oscillators][Humanoid-Gait-Design]
+  - [Simulating Boston Dynamics Handle on VREP][Handle-VREP]
+  - [Robotic Arm - Windows WPF application][RA - Windows App]
 #
 (Upcoming)
 - Reinforcement Learning
@@ -37,3 +39,5 @@ Hello World. Welcome to my little corner on the internet where I host my project
 [Kalman-Filter]: https://github.com/karthikramx/Kalman-Filter-Example
 [Backtesting portfolio of stocks]: https://github.com/karthikramx/Algorithmic-Trading-Backtesting-Portfolio-of-Stocks-Python
 [Backtesting in python]: https://github.com/karthikramx/Algorithmic-Trading-Backtesting-in-python
+[RA - Windows App]: https://github.com/karthikramx/Robotic-Arm-Windows-GUI-App
+[Handle-VREP]: https://github.com/karthikramx/Handle-VREP-Python
