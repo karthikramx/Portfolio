@@ -5,7 +5,7 @@ Hello World. Welcome to my little corner on the internet where I host my project
 #
 - MACHINE LEARNING / DATA SCIENCE
   - SUPERVISED LEARNING
-    - [Multiple Linear Regression on Seoul Bike Share Data][MLR on Seol Bike Share Data] 
+    - [Multiple Linear Regression using Gradient Descent on Seoul Bike Share Data][MLR on Seol Bike Share Data] 
     - [Multiple Linear Regression for predicting Car Prices][MLR for predicting car Prices]
     - [Credit Card Lead Prediction][Credit Card Lead Prediction]
   - UNSUPERVISED LEARNING
