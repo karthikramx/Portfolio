@@ -2,6 +2,11 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
  
 Hello World. Welcome to my little corner on the internet where I host my projects. I’m currently exploring data science, machine learning, AI, business analytics and algorithmic trading. I'm listing all my project under specific project categories below.
+
+# 
+- GENERATIVE AI
+  - [RETREIVAL AUGMENTED GENERATION] 
+
 #
 - MACHINE LEARNING / DATA SCIENCE
   - SUPERVISED LEARNING
@@ -43,3 +48,4 @@ Hello World. Welcome to my little corner on the internet where I host my project
 [RA - Windows App]: https://github.com/karthikramx/Robotic-Arm-Windows-GUI-App
 [Handle-VREP]: https://github.com/karthikramx/Handle-VREP-Python
 [MLR for predicting car Prices]: https://github.com/karthikramx/Multiple-Linear-Regression-for-Predicting-Car-Prices
+[RETREIVAL AUGMENTED GENERATION] : https://github.com/karthikramx/Project-Retrieval-Augmented-Generation
