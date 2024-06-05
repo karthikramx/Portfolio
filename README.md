@@ -27,14 +27,6 @@ Hello World. Welcome to my little corner on the internet where I host my project
   - [Robotic Arm - Windows WPF application][RA - Windows App]
   - [Kalman Filter][Kalman-Filter]
  
-#
-(Upcoming)
-- Reinforcement Learning
-- Deep Learning
-- Natural Language Processing
-- Miscellaneous
-- Web Development  
-#
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/karthikramx/
@@ -48,4 +40,4 @@ Hello World. Welcome to my little corner on the internet where I host my project
 [RA - Windows App]: https://github.com/karthikramx/Robotic-Arm-Windows-GUI-App
 [Handle-VREP]: https://github.com/karthikramx/Handle-VREP-Python
 [MLR for predicting car Prices]: https://github.com/karthikramx/Multiple-Linear-Regression-for-Predicting-Car-Prices
-[RETREIVAL AUGMENTED GENERATION] : https://github.com/karthikramx/Project-Retrieval-Augmented-Generation
+[RETREIVAL AUGMENTED GENERATION]: https://github.com/karthikramx/Project-Retrieval-Augmented-Generation
